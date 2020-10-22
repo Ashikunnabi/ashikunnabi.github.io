@@ -11,7 +11,7 @@ const Portfolio = () => {
   const storeData = [];
   
   React.useEffect(() => {
-    fetch('https://ademo.pythonanywhere.com/project/api/v1/projects/')
+    fetch('http://localhost:8000/project/api/v1/projects/')
       .then(res => res.json())
       .then(data => {
         setprojects(data.results);

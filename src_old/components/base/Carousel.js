@@ -1,12 +1,12 @@
 import React from "react";
-import { MDBCarousel, MDBCarouselInner, MDBCarouselItem, MDBView, MDBMask } from
+import { MDBCarousel, MDBCarouselCaption, MDBCarouselInner, MDBCarouselItem, MDBView, MDBMask } from
 "mdbreact";
 
 const Carousel = () => {
   const [images, setImages] = React.useState([]);
   
   React.useEffect(() => {
-    fetch('https://ademo.pythonanywhere.com/project/api/v1/quotes/')
+    fetch('http://localhost:8000/project/api/v1/quotes/')
       .then(res => res.json())
       .then(data => {
         let tmpArray = []
