@@ -24,10 +24,10 @@ class Navbar extends Component {
             <MDBCollapse id="navbarCollapse3" isOpen={this.state.isOpen} navbar>
               <MDBNavbarNav left>
                 <MDBNavItem>
-                  <MDBNavLink exact to="/" activeClassName="navbar_active">Home</MDBNavLink>
+                  <MDBNavLink exact to="/portfolio/" activeClassName="navbar_active">Home</MDBNavLink>
                 </MDBNavItem>
                 <MDBNavItem>
-                  <MDBNavLink exact to="/portfolio" activeClassName="navbar_active">Portfolio</MDBNavLink>
+                  <MDBNavLink exact to="/portfolio/portfolio" activeClassName="navbar_active">Portfolio</MDBNavLink>
                 </MDBNavItem>
                 {/*<MDBNavItem>
                   <MDBNavLink to="/blog"activeClassName="navbar_active">Blog</MDBNavLink>
@@ -74,9 +74,9 @@ class Navbar extends Component {
             </MDBCollapse>
           </MDBNavbar>
           
-          <Route exact path="/" component={Home} />
-          <Route exact path="/Portfolio" component={Portfolio} />
-          <Route exact path="/Blog" component={Blog} />
+          <Route exact path="/portfolio/" component={Home} />
+          <Route exact path="/portfolio/portfolio" component={Portfolio} />
+          <Route exact path="/portfolio/Blog" component={Blog} />
         </>
         );
       }
