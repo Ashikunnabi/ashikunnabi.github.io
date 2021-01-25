@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Ashikunnabi/ashikunnabi.github.io/static/css/main.abd34197.chunk.css",
-    "main.js": "/Ashikunnabi/ashikunnabi.github.io/static/js/main.52f2230f.chunk.js",
-    "main.js.map": "/Ashikunnabi/ashikunnabi.github.io/static/js/main.52f2230f.chunk.js.map",
-    "runtime-main.js": "/Ashikunnabi/ashikunnabi.github.io/static/js/runtime-main.3edab707.js",
-    "runtime-main.js.map": "/Ashikunnabi/ashikunnabi.github.io/static/js/runtime-main.3edab707.js.map",
-    "static/css/2.2b5ba5df.chunk.css": "/Ashikunnabi/ashikunnabi.github.io/static/css/2.2b5ba5df.chunk.css",
-    "static/js/2.0a8da5d2.chunk.js": "/Ashikunnabi/ashikunnabi.github.io/static/js/2.0a8da5d2.chunk.js",
-    "static/js/2.0a8da5d2.chunk.js.map": "/Ashikunnabi/ashikunnabi.github.io/static/js/2.0a8da5d2.chunk.js.map",
-    "index.html": "/Ashikunnabi/ashikunnabi.github.io/index.html",
-    "precache-manifest.fa930e86daa68ba88e24ab5023564be1.js": "/Ashikunnabi/ashikunnabi.github.io/precache-manifest.fa930e86daa68ba88e24ab5023564be1.js",
-    "service-worker.js": "/Ashikunnabi/ashikunnabi.github.io/service-worker.js",
-    "static/css/2.2b5ba5df.chunk.css.map": "/Ashikunnabi/ashikunnabi.github.io/static/css/2.2b5ba5df.chunk.css.map",
-    "static/css/main.abd34197.chunk.css.map": "/Ashikunnabi/ashikunnabi.github.io/static/css/main.abd34197.chunk.css.map",
-    "static/js/2.0a8da5d2.chunk.js.LICENSE.txt": "/Ashikunnabi/ashikunnabi.github.io/static/js/2.0a8da5d2.chunk.js.LICENSE.txt",
-    "static/media/mdb.css": "/Ashikunnabi/ashikunnabi.github.io/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/Covid.css": "/Ashikunnabi/ashikunnabi.github.io/static/media/background2.ad9d698c.png",
-    "static/media/all.min.css": "/Ashikunnabi/ashikunnabi.github.io/static/media/fa-solid-900.ee09ad75.woff",
-    "static/media/personal_description_banner.gif": "/Ashikunnabi/ashikunnabi.github.io/static/media/personal_description_banner.e877b4c7.gif"
+    "main.css": "/static/css/main.f0963706.chunk.css",
+    "main.js": "/static/js/main.56a4469e.chunk.js",
+    "main.js.map": "/static/js/main.56a4469e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/css/2.2b4efaf6.chunk.css": "/static/css/2.2b4efaf6.chunk.css",
+    "static/js/2.b7f16e7a.chunk.js": "/static/js/2.b7f16e7a.chunk.js",
+    "static/js/2.b7f16e7a.chunk.js.map": "/static/js/2.b7f16e7a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.82063532ccaa55ee437b46c9164146d1.js": "/precache-manifest.82063532ccaa55ee437b46c9164146d1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2b4efaf6.chunk.css.map": "/static/css/2.2b4efaf6.chunk.css.map",
+    "static/css/main.f0963706.chunk.css.map": "/static/css/main.f0963706.chunk.css.map",
+    "static/js/2.b7f16e7a.chunk.js.LICENSE.txt": "/static/js/2.b7f16e7a.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/Covid.css": "/static/media/background2.ad9d698c.png",
+    "static/media/all.min.css": "/static/media/fa-solid-900.ee09ad75.woff",
+    "static/media/personal_description_banner.gif": "/static/media/personal_description_banner.e877b4c7.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.3edab707.js",
-    "static/css/2.2b5ba5df.chunk.css",
-    "static/js/2.0a8da5d2.chunk.js",
-    "static/css/main.abd34197.chunk.css",
-    "static/js/main.52f2230f.chunk.js"
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/css/2.2b4efaf6.chunk.css",
+    "static/js/2.b7f16e7a.chunk.js",
+    "static/css/main.f0963706.chunk.css",
+    "static/js/main.56a4469e.chunk.js"
   ]
 }
