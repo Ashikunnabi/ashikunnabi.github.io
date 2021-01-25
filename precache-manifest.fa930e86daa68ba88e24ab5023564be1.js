@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9feb9858cbea2891c10fde6fb5cc5e2a",
+    "revision": "9ae9420c01b00ea26b76b04f81c51a06",
     "url": "/Ashikunnabi/ashikunnabi.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ashikunnabi/ashikunnabi.github.io/static/css/2.2b5ba5df.chunk.css"
   },
   {
-    "revision": "b54f2163c919e49dda98",
+    "revision": "861dc3dd7111375e4b36",
     "url": "/Ashikunnabi/ashikunnabi.github.io/static/css/main.abd34197.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ashikunnabi/ashikunnabi.github.io/static/js/2.0a8da5d2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b54f2163c919e49dda98",
-    "url": "/Ashikunnabi/ashikunnabi.github.io/static/js/main.7b3d16e4.chunk.js"
+    "revision": "861dc3dd7111375e4b36",
+    "url": "/Ashikunnabi/ashikunnabi.github.io/static/js/main.52f2230f.chunk.js"
   },
   {
     "revision": "dede2f9077e75aa97fd3",

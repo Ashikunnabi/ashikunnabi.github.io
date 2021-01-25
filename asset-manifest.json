@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ashikunnabi/ashikunnabi.github.io/static/css/main.abd34197.chunk.css",
-    "main.js": "/Ashikunnabi/ashikunnabi.github.io/static/js/main.7b3d16e4.chunk.js",
-    "main.js.map": "/Ashikunnabi/ashikunnabi.github.io/static/js/main.7b3d16e4.chunk.js.map",
+    "main.js": "/Ashikunnabi/ashikunnabi.github.io/static/js/main.52f2230f.chunk.js",
+    "main.js.map": "/Ashikunnabi/ashikunnabi.github.io/static/js/main.52f2230f.chunk.js.map",
     "runtime-main.js": "/Ashikunnabi/ashikunnabi.github.io/static/js/runtime-main.3edab707.js",
     "runtime-main.js.map": "/Ashikunnabi/ashikunnabi.github.io/static/js/runtime-main.3edab707.js.map",
     "static/css/2.2b5ba5df.chunk.css": "/Ashikunnabi/ashikunnabi.github.io/static/css/2.2b5ba5df.chunk.css",
     "static/js/2.0a8da5d2.chunk.js": "/Ashikunnabi/ashikunnabi.github.io/static/js/2.0a8da5d2.chunk.js",
     "static/js/2.0a8da5d2.chunk.js.map": "/Ashikunnabi/ashikunnabi.github.io/static/js/2.0a8da5d2.chunk.js.map",
     "index.html": "/Ashikunnabi/ashikunnabi.github.io/index.html",
-    "precache-manifest.ed56ef539576559542164aa7da699e22.js": "/Ashikunnabi/ashikunnabi.github.io/precache-manifest.ed56ef539576559542164aa7da699e22.js",
+    "precache-manifest.fa930e86daa68ba88e24ab5023564be1.js": "/Ashikunnabi/ashikunnabi.github.io/precache-manifest.fa930e86daa68ba88e24ab5023564be1.js",
     "service-worker.js": "/Ashikunnabi/ashikunnabi.github.io/service-worker.js",
     "static/css/2.2b5ba5df.chunk.css.map": "/Ashikunnabi/ashikunnabi.github.io/static/css/2.2b5ba5df.chunk.css.map",
     "static/css/main.abd34197.chunk.css.map": "/Ashikunnabi/ashikunnabi.github.io/static/css/main.abd34197.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.2b5ba5df.chunk.css",
     "static/js/2.0a8da5d2.chunk.js",
     "static/css/main.abd34197.chunk.css",
-    "static/js/main.7b3d16e4.chunk.js"
+    "static/js/main.52f2230f.chunk.js"
   ]
 }
